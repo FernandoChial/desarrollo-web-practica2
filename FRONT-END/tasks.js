@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://desarrollo-web-practica2.onrender.com";
 
 const btnAddTask = document.getElementById("btnAddTask");
 const tasksList = document.getElementById("tasksList");
